@@ -1,13 +1,13 @@
 <div align="center">
 
-# 任梓瑞
+<h1>任梓瑞</h1>
 
-*Zirui Ren*
+<p><em>Zirui Ren</em></p>
 
-**本科生** · [中国科学技术大学](https://www.ustc.edu.cn) · [计算机科学与技术学院](https://cs.ustc.edu.cn)
+<p><strong>本科生</strong> · <a href="https://www.ustc.edu.cn">中国科学技术大学</a> · <a href="https://cs.ustc.edu.cn">计算机科学与技术学院</a></p>
 
-<a href="https://github.com/RaZoR-7870"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:rzr@mail.ustc.edu.cn"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" /></a>
+<p><a href="https://github.com/RaZoR-7870"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:rzr@mail.ustc.edu.cn"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" /></a></p>
 
 </div>
 
